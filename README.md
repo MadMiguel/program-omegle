@@ -19,3 +19,10 @@ started new conversation: f5u6veaqu03442tj6dgre9mub6
 Looking for humans ...
 Human is typing something...
 ```
+#### Credit
+
+Credit to joelisester-sandbox, who's chatbot.py code was brutally butchered to write this script.
+
+The original code, and some other interesting stuff can be found here
+
+https://code.google.com/archive/p/joelisester-sandbox/downloads
