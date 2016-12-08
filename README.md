@@ -21,6 +21,14 @@ Human is typing something...
 ```
 #### Credit
 
+##### Program-O
+
+Credit to Program-O for being an awesome, open source PHP and MySQL implementation of AIML2.0!
+
+www.program-o.com/
+
+##### joelisester-sandbox
+
 Credit to joelisester-sandbox, who's chatbot.py code was brutally butchered to write this script.
 
 The original code, and some other interesting stuff can be found here
