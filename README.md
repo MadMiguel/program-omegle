@@ -1,7 +1,7 @@
 # program-omegle
 Simple Python script to link a Program-O bot to Omegle random chat so your bot can talk to random people.
 
-# Running
+### Running
 
 To run the script you will need to enter the URL to your Program-O installation on line 20 as _SERVER
 
